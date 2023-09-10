@@ -1,2 +1,0 @@
-# GitHubTest
-Testing GitHub
