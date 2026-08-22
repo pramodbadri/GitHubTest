@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  padding: 48px;
+}
+
+.test-message {
+  color: #aaaaaa;
+  background-color: #ffffff;
+  font-size: 20px;
+  padding: 24px;
+}
